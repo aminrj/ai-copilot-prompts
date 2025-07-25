@@ -4,7 +4,7 @@
 
 A curated collection of battle-tested prompts for GitHub Copilot, Claude Code, Cursor, and other AI development tools. Turn your AI assistant into an architectural partner, not just a code generator.
 
-[![GitHub stars](https://img.shields.io/github/stars/molntek/ai-copilot-prompts?style=social)](https://github.com/molntek/ai-copilot-prompts/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/molntek/ai-copilot-prompts?style=social)](https://github.com/aminrj/ai-copilot-prompts/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
